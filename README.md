@@ -1,7 +1,10 @@
 Olá, sou Alisson Santos
 
-- 🔭 Trabalhando em vendas e manutenção de eletronico (celular, computador, notebook, etc).
-- 🌱 Estudando Java
+- 🔭 Técnico eletroeletrônico e de automação.
+- 🌱 Desenvolvedor python, mql
+-   Aprendendo C++  E HTML
+-  
+-   
 
 <div align="center">
   <a href="https://github.com/Alisson-Santos">
