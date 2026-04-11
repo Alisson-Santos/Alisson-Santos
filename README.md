@@ -25,7 +25,7 @@ Técnico em Eletroeletrônica e Automação com foco em transformar lógica indu
 
 ### 📊 Estatísticas do GitHub
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_Alisson-SantosI&show_icons=true&theme=radical)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Alisson-SantosI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Santos&layout=compact&theme=radical)
 
 ---
