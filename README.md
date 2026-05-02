@@ -1,4 +1,4 @@
-# Olá, sou o Alisson Santos 👋
+# Olá, eu sou o Alisson Santos 👋
 
 Técnico em Eletroeletrônica e Automação com foco em transformar lógica industrial em soluções digitais. Atualmente, atuo na operação de sistemas de automação predial e industrial, enquanto desenvolvo ferramentas de automação e trading com Python e MQL5.
 
