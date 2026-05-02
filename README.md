@@ -6,10 +6,12 @@ Técnico em Eletroeletrônica e Automação com foco em transformar lógica indu
 
 ### 🚀 No que estou trabalhando
 
-**Projeto Andromeda:** Desenvolvimento de robôs de trade automatizados utilizando MQL5 para o mercado de ações nacional e internacional (Forex).**Automação com Python:** Criando scripts para otimização de tarefas e integração de sistemas.
+**Comando de voz:** estou desenvolvendo um assistente virtual para realizar ações por comando de voz, otimizando o trabalho, estudo e mais.
+
 
 ### 🛠️ Experiência com Programação
 
+**Projeto Andromeda:** Desenvolvimento de robôs de trade automatizados utilizando MQL5 para o mercado de ações nacional e internacional (Forex).**Automação com Python:** Criando scripts para otimização de tarefas e integração de sistemas.
 **Automação de E-mails:** Desenvolvi um robô com Python (PyAutoGUI) para automatizar a coleta de dados e o envio de relatórios via Outlook, eliminando tarefas repetitivas e otimizando o fluxo de trabalho.
 **Automação de Transmissões:** Criei um robô para iniciar o OBS, configurar músicas, legendas e iniciar lives de forma automática.
 
